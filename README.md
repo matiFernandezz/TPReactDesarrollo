@@ -28,11 +28,11 @@ En este Trabajo Práctico, se desarrollará una aplicación web sencilla utiliza
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/XxFabio24xX/React-TypeScript
+git clone https://github.com/matiFernandezz/TPReactDesarrollo
 ```
 2. Navega al directorio del proyecto:
 ```bash
-cd React-TypeScript
+cd TpReactDesarrollo
 ```
 
 3. Instala las dependencias:
